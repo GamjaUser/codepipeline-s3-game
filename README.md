@@ -2,6 +2,8 @@
 
 This repo contains the code files used in this [YouTube video](https://youtu.be/biYVW1TMYAU).
 
+(※ 위 Youtube를 참고한 자세한 실습 과정은 __codepipeline_s3_game.pptx__ 파일을 참고하여 주시길 바랍니다.)
+
 ## TL;DR
 Code for a game is hosted in GitHub.  We create an S3 bucket for static website hosting, then create a continuous deployment pipeline (using AWS Code Pipeline) to automatically deploy the code whenever changes are made.
 
